@@ -1,0 +1,18 @@
+{
+    "name": "BinaryEgo.ToolBox.Editor",
+    "rootNamespace": "BinaryEgo.ToolBox.Editor",
+    "references": [
+        "GUID:5f040a7b543fb4f6e9b54df2cf8cdeb9"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

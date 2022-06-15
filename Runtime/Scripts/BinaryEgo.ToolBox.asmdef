@@ -1,0 +1,25 @@
+{
+    "name": "BinaryEgo.ToolBox",
+    "rootNamespace": "BinaryEgo.ToolBox",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.modules.ai",
+            "expression": "1.0.0",
+            "define": "UNITY_AI_MODULE"
+        },
+        {
+            "name": "com.unity.textmeshpro",
+            "expression": "2.0.1",
+            "define": "UNITY_TEXTMESHPRO"
+        }
+    ],
+    "noEngineReferences": false
+}
